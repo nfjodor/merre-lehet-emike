@@ -1,0 +1,5 @@
+const char* ssid = "Wifi name";
+const char* password = "wifi-password";
+String baseUrl = String("http://urltoserver.com/?");
+uint8_t mac[6] = {0x5E, 0xCF, 0x7F, 0xD3, 0xB6, 0x85};
+String findMacAddress = "5E:CF:7F:D3:B6:85";
