@@ -1,6 +1,6 @@
 # Merre lehet Emike?
 
-This is a col-hot game for team building.
+This is a cold-hot game for team building.
 To make this project, we need some device:
  - NodeMCU
  - 2 * ESP8266-12
